@@ -24,6 +24,10 @@ for install package
 Runs the app in the development mode.\
 Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
+## Demo Application
+
+[Disney+ Hotstar Clone](https://disney-hotstar-clone-gilt.vercel.app/)
+
 ## Development
 
 ### [ log -> 23-03-2024]
