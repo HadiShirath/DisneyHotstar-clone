@@ -25,7 +25,7 @@ function LandingPage() {
           Home of Your Favorites and More
         </h2>
         <Link to="/home">
-          <div className=" mx-16 mt-5 flex px-16 py-3 gap-4 justify-center items-center bg-gradient-to-r from-[#095ae6] to-[#062794] rounded-lg hover:scale-105 transition-all duration-700 cursor-pointer">
+          <div className=" mx-16 mt-5 flex px-16 py-3 gap-4 justify-center blue items-center bg-gradient-to-r from-ringblue500 to-ringBlue700 rounded-lg hover:scale-105 transition-all duration-700 cursor-pointer">
             <h2 className="text-white text-[18px] font-semibold">
               Subscribe Now
             </h2>

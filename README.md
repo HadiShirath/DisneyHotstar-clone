@@ -11,18 +11,25 @@ Building Project with Vite, ReactJs, TailwindCSS, Redux and using The MovieDB AP
 
 ![DisneyClone](./preview/Disney-tools.jpg)
 
-## Available Scripts
+## <a name="quick-start">🤸 Quick Start</a>
 
-In the project directory, you can run:
+Follow these steps to set up the project locally on your machine.
 
-### `npm install`
+**Installation**
 
-for install package
+Install the project dependencies using npm:
 
-### `npm run dev`
+```bash
+npm install
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
+**Running the Project**
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
 ## Demo Application
 
