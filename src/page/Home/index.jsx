@@ -10,6 +10,7 @@ import {
 import { searchMoviebyKeyword } from "../../service/GlobalApi";
 
 import { connect } from "react-redux";
+import Footer from '../../components/molecules/Footer';
 
 class Home extends Component {
   constructor(props) {
@@ -59,6 +60,7 @@ class Home extends Component {
         ) : (
           <GenreMovieList />
         )}
+        <Footer />
       </div>
     );
   }

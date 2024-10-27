@@ -21,7 +21,7 @@ class GenreMovieList extends Component {
     if (keyword && !dataMovies.length) {
       return (
         <div>
-          <div className="px-6 md:px-16 pt-3 pb-10">
+          <div className="px-6 md:px-16 pt-3 pb-5">
             <h2>
               Data <span className="font-bold">{keyword}</span> tidak ditemukan
             </h2>
